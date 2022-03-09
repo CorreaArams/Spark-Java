@@ -1,0 +1,10 @@
+Alemanha,1
+Brasil,1
+Uruguai,3
+Argentina,2
+Portugal,2
+USA,1
+Colombia,3
+Alemanha,4
+Brasil,1
+Uruguai,1
